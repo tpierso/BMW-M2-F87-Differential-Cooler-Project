@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.2">
   <diagram name="Page-1" id="_E8ELYtHnHAGCjDZnW66">
-    <mxGraphModel dx="425" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="485" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,6 +303,11 @@
         <mxCell id="ljTsGrph6UNTOj-xFB7d-21" value="7.5A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="530" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljTsGrph6UNTOj-xFB7d-23" target="ljTsGrph6UNTOj-xFB7d-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ljTsGrph6UNTOj-xFB7d-23" value="5A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="560" width="40" height="20" as="geometry" />
         </mxCell>
@@ -429,6 +434,48 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290.5" y="200" as="sourcePoint" />
             <mxPoint x="360.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BmA53OhYEYzgZZ_0BUa-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="230" as="sourcePoint" />
+            <mxPoint x="460" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-89" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="234" as="sourcePoint" />
+            <mxPoint x="240" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-91" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="40" as="sourcePoint" />
+            <mxPoint x="460" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="80" y="80.25" width="40" height="39.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-95" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;fillColor=light-dark(#FFFFFF,#FFFFFF);gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="87" y="87.5" width="25" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-92" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="40" as="sourcePoint" />
+            <mxPoint x="241" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-98" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="40" as="sourcePoint" />
+            <mxPoint x="120" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-99" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ljTsGrph6UNTOj-xFB7d-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="240" as="sourcePoint" />
+            <mxPoint x="100" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
