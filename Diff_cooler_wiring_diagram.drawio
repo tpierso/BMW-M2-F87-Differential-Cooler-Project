@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.2">
   <diagram name="Page-1" id="_E8ELYtHnHAGCjDZnW66">
-    <mxGraphModel dx="1489" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="417" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,14 +38,14 @@
             <mxPoint x="82" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljTsGrph6UNTOj-xFB7d-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ljTsGrph6UNTOj-xFB7d-23" target="ljTsGrph6UNTOj-xFB7d-24">
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ljTsGrph6UNTOj-xFB7d-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="640" as="sourcePoint" />
-            <mxPoint x="690" y="570" as="targetPoint" />
+            <mxPoint x="600" y="570" as="sourcePoint" />
+            <mxPoint x="725" y="420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="690" y="570" />
               <mxPoint x="690" y="400" />
-              <mxPoint x="724" y="400" />
+              <mxPoint x="725" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -228,10 +228,13 @@
         <mxCell id="ljTsGrph6UNTOj-xFB7d-178" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="59" y="79" width="81" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ljTsGrph6UNTOj-xFB7d-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#FFFFFF);gradientColor=light-dark(#000000,#000000);opacity=30;" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-178">
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);gradientColor=light-dark(#000000,#000000);opacity=30;" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-178">
           <mxGeometry x="1" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ljTsGrph6UNTOj-xFB7d-126" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=light-dark(#7AA116,#FFFFFF);strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_sensor;" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-178">
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-192" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-178">
+          <mxGeometry x="21.48" y="12.530000000000001" width="37.03" height="39.12" as="geometry" />
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-126" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=light-dark(#000000,#1A1A1A);strokeColor=#FFFFFF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_sensor;shadow=0;perimeterSpacing=4;fillStyle=solid;" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-178">
           <mxGeometry x="12.97" y="5.06" width="54.06" height="54.06" as="geometry" />
         </mxCell>
         <mxCell id="ljTsGrph6UNTOj-xFB7d-177" value="&lt;div&gt;Setrab 180F&amp;nbsp;&lt;/div&gt;&lt;div&gt;Thermal Switch&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-178">
@@ -256,13 +259,13 @@
           <mxGeometry x="10" y="2" width="60" height="12" as="geometry" />
         </mxCell>
         <mxCell id="ljTsGrph6UNTOj-xFB7d-181" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="710" y="420" width="79" height="71" as="geometry" />
+          <mxGeometry x="710" y="420" width="78" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ljTsGrph6UNTOj-xFB7d-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;gradientColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-181">
           <mxGeometry y="10" width="79" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ljTsGrph6UNTOj-xFB7d-24" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;+&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=none;strokeColor=light-dark(#B85450,#FFFFFF);spacingBottom=2;" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-181">
-          <mxGeometry x="9" width="10" height="10" as="geometry" />
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-24" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;+&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=none;strokeColor=light-dark(#000000,#FFFFFF);spacingBottom=2;" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-181">
+          <mxGeometry x="10" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ljTsGrph6UNTOj-xFB7d-25" value="-" style="whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;strokeWidth=1;spacingBottom=2;" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-181">
           <mxGeometry x="59" width="10" height="10" as="geometry" />
@@ -531,17 +534,17 @@
         <mxCell id="ljTsGrph6UNTOj-xFB7d-172" value="&lt;div&gt;Bosch Relay&lt;/div&gt;&lt;div&gt;30A&amp;nbsp;&lt;/div&gt;&lt;div&gt;280 ISO Mini&lt;/div&gt;&lt;div&gt;&amp;nbsp;Relay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;fontSize=7;fontStyle=0;fontFamily=Verdana;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-183">
           <mxGeometry x="151" y="170" width="50" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="ljTsGrph6UNTOj-xFB7d-184" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Project: BMW M2 Differential Cooler&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Author: Tim Pierson&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Date: 09/02/2025&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;spacingRight=4;spacing=2;fillColor=light-dark(#000000,#000000);fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-184" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Project: BMW M2 Differential Cooler&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Author: Tim Pierson&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Date: 09/02/2025&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#666666;spacingRight=4;spacing=2;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="656" y="24.5" width="175" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="ljTsGrph6UNTOj-xFB7d-187" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="548.25" y="83.75" width="65" height="65" as="geometry" />
+          <mxGeometry x="547.25" y="83.75" width="80.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ljTsGrph6UNTOj-xFB7d-186" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-187">
           <mxGeometry width="66" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="ljTsGrph6UNTOj-xFB7d-121" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Bootstrap_Vol_2-2296/fan-593.svg" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-187">
-          <mxGeometry y="0.25" width="65.75" height="65.75" as="geometry" />
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-191" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Bootstrap_Vol_2-2296/fan-593.svg" vertex="1" parent="ljTsGrph6UNTOj-xFB7d-187">
+          <mxGeometry x="-1" width="67" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
