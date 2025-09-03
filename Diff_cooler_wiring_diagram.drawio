@@ -353,6 +353,42 @@
             <mxPoint x="686" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-55" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ljTsGrph6UNTOj-xFB7d-55" target="5BmA53OhYEYzgZZ_0BUa-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="520" as="sourcePoint" />
+            <mxPoint x="460" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-57" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-58" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ljTsGrph6UNTOj-xFB7d-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="520" as="sourcePoint" />
+            <mxPoint x="240" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-59" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
+          <mxGeometry x="850" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-66" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ljTsGrph6UNTOj-xFB7d-25">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="820" y="640" as="sourcePoint" />
+            <mxPoint x="860" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="785" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ljTsGrph6UNTOj-xFB7d-67" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ljTsGrph6UNTOj-xFB7d-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="660" as="sourcePoint" />
+            <mxPoint x="860" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
