@@ -24,4 +24,4 @@ of the Sample.
 > [!WARNING]
 > This project is still a work in progress. I will be actively updating this as time goes on. 
 
-## See the WIKI for more details and goings on
+## See the [WIKI] (https://github.com/tpierso/BMW-M2-F87-Project/wiki) for more details and goings on
