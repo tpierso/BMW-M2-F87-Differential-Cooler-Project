@@ -59,8 +59,6 @@ While the M2 CSR and M4 GT4 give a good template to start from, there are a few 
   6. From the oil pump, the gear oil flows to the inlet of the oil cooler.
   7. From the outlet of the oil cooler, the oil then flows back into the differential inlet.
 
-Per BMW, the Mocal oil pump will come under serious load and reduce the longevity of the pump if cold gear oil is pumped through the s
-
 ## Parts order
 
 | **Part Name** | **Quantity** | **Notes** |
