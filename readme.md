@@ -31,23 +31,25 @@ While the M2 CSR and M4 GT4 give a good template to start from, there are a few 
   2. The M4 GT4 and CSR trigger the oil pump using the differential temperature probe in the bottom of the sump. This sends a signal that then goes to the FEM to power on the oil pump. The FEM on both cars are actually off the shelf units; however, those units are reprogrammed using MiDiS (BMW Motorsports Diagnostics) and thus this wasn't viable in my opinion.
   3. The BMW parts are natually more expensive than going your own way (although, over time this has proven not to be the case).
 
-## Goals
+### Goals
   - Create a differential cooler that integrates more cleanly without cutting up too much of the car or increasing complexity massive lengths.
   - Trigger pump on after gear oil has reached temperature to increase pump life
   - Implement a quick connect fitting to ease maintenance and gear oil changes.
   - Integrate a long lasting solution that fits nicely under the car.
 
-## Decided strategy
+### Decided strategy
 > [!NOTE]
 > I am running a Drexler LSD and no longer have the OEM electronic differential or servo motor. 
   1. Use the M2 CSR to mount the oil cooler.
   2. Use a small oil cooler puller fan to augment the fact that we won't be using direct, efficient air cooling from the side window like the CSR.
   3. Integrate a thermal switch in the loop to ensure the pump and fan only power on as needed and when oil is at the desired operating temperature
      > The CSR activates its pump via the FEM at 170F; however, there aren't commercially available thermal switch that is useful here. I decided on a 180F Setrab M12x1.5 unit that fits into the factory temp sensor location on the oil sump and also have provisions for another temp location via a fitting after my oil pump via a AN6 female to male adapter with a 1/8 NPT that will test as well.
-  4. 
+  4. Use a quick disconnect for ease of maintenance.
+  5. Don't cheap out on components (especially in electrical).
+  6. Reduce complexity, but err on the side of reliability and performance.
 
-
-The cooling loop is fairly straight forward:
+## Architecture
+# Simplifed Cooling Loop
   1. An M22x1.5 banjo bolt fits directly into the stock differential oil sump outlet.
   2. From the M22-AN6 banjo fitting, the gear oil flows to a female AN6 to female AN6 hose.
   3. From the AN6 hose, the gear oil flows to quick disconnect fitting (optional).
