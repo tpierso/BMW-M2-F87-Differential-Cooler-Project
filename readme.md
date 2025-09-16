@@ -49,7 +49,7 @@ While the M2 CSR and M4 GT4 give a good template to start from, there are a few 
   6. Reduce complexity, but err on the side of reliability and performance.
 
 ## Architecture
-# Simplifed Cooling Loop
+### Simplifed Cooling Loop
   1. An M22x1.5 banjo bolt fits directly into the stock differential oil sump outlet.
   2. From the M22-AN6 banjo fitting, the gear oil flows to a female AN6 to female AN6 hose.
   3. From the AN6 hose, the gear oil flows to quick disconnect fitting (optional).
