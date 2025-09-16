@@ -81,7 +81,7 @@ While the M2 CSR and M4 GT4 give a good template to start from, there are a few 
 | Deutsch DTP04 Full Kit 12-14 AWG gold plated terminals | 1 | Prowire USA sells these as a kit. Totally overkill, but buy once, cry once. | 
 | Deutsch DTP02 Full Kit 12-14 AWG gold plated terminals | 2 | Prowire USA sells these qas a kit. Totally overkill, but buy once, cry once. | 
 
-## Wiring and hose dimensions
+## Wiring and hose details
 
 | **Part name** | **Size** | **Length (seat-to-seat)** | **Quantity** | **Fitting/Terminal 1** | **Fitting/Terminal 2**| Install Location | **Notes** |
 |---|---|---|---|---|---|---|---|
