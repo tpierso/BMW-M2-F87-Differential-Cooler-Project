@@ -79,7 +79,7 @@ Per BMW, the Mocal oil pump will come under serious load and reduce the longevit
 | Setrab sūsa AN Union - 90 degree AN6 female to AN6 female | 1 | |  
 | Setrab ūsa AN Union - straight AN6 female to AN6 female | 1 | | 
 | Raceflux Custom -6AN PTFE SS hoses | 3 | Details below of construction; I didn't feel like making the hoses myself |
-| KSV Looms/Prowire USA M22759/32-12 Wiring | 5 | 5 corresponds to the number of wire colors selected. Specific wiring lengths to come with harnessing docs. | 
+| KSV Looms/Prowire USA M22759/32-12 Wiring | 5 | 5 corresponds to the number of wire colors selected. Specific wiring lengths to come with harnessing docs. 14AWG for the pump power and 22AWG for relay signal wires would probably cover it, but this is what I have. | 
 | Deutsch DTP04 Full Kit 12-14 AWG gold plated terminals | 1 | Prowire USA sells these as a kit. Totally overkill, but buy once, cry once. | 
 | Deutsch DTP02 Full Kit 12-14 AWG gold plated terminals | 2 | Prowire USA sells these qas a kit. Totally overkill, but buy once, cry once. | 
 
