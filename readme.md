@@ -1,6 +1,6 @@
 # 2018 BMW M2 Differential Cooler Build
 
-## See the [Wiki](https://github.com/tpierso/BMW-M2-F87-Differential-Cooler-Project/wiki/Table-of-Contents) for more details and goings on!
+## See the [Wiki](https://github.com/tpierso/BMW-M2-F87-Differential-Cooler-Project/wiki) for more details and goings on!
 
 
 > [!NOTE]
